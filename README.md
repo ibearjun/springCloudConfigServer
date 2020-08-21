@@ -1,0 +1,2 @@
+# springCloudConfigServer
+springcloud配置的仓库
